@@ -1,5 +1,4 @@
 user-agent: *
-allow: /
-sitemap:https://www.myecommerce.com/sitemap.xml
+allow: 
 
 disallow:/
